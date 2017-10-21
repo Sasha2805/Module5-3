@@ -1,5 +1,6 @@
-import flowers.Flower;
+package flowersStore;
 
+import flowers.Flower;
 import java.util.ArrayList;
 
 public class Bouquet {

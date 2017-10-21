@@ -1,7 +1,8 @@
+package flowersStore;
+
 import flowers.Chamomile;
 import flowers.Rose;
 import flowers.Tulip;
-
 import java.util.Arrays;
 
 public class FlowerStore {
