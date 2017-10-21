@@ -1,0 +1,6 @@
+Rose;100.0;
+Rose;100.0;
+Chamomile;70.0;
+Chamomile;70.0;
+Tulip;45.0;
+Tulip;45.0;
